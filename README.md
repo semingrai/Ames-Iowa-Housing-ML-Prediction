@@ -28,7 +28,5 @@ This project analyzes the Ames Housing dataset to predict home sale prices based
 - Location attributes (neighborhood, zoning)
 - Sale conditions
 
-## 💻 Code Structure
-```python
 
 ##Seming Rai
