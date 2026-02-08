@@ -3,7 +3,7 @@
 Machine learning model to predict residential home sale prices in Ames, Iowa using Gradient Boosting regression with optimized feature engineering.
 
 ## 📊 Results
-
+ 
 | Metric | Value |
 |--------|-------|
 | **R² Score** | **88.0%** |
