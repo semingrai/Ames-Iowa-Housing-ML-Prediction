@@ -20,7 +20,7 @@ Machine learning model to predict residential home sale prices in Ames, Iowa usi
 
 ## 🛠️ Tech Stack
 
-- Python 3.x
+- Python 3.x 
 - pandas
 - scikit-learn (GradientBoostingRegressor, cross_val_score)
 
